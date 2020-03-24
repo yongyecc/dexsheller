@@ -1,6 +1,6 @@
 # 简介
 
-Native层DEX一键加固脚本。（和[Java层DEX加固](https://github.com/yongyecc/apksheller)相比，将脱壳流程往底层写，增加分析难度)
+Native层DEX一键加固脚本。（和[Java层DEX加固](https://github.com/yongyecc/apksheller)相比，只是将Java层关于动态解密加载原始DEX的代码移到了Native层，加深**APK文件防编译保护**)
 
 # 使用说明
 
