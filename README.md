@@ -5,7 +5,7 @@ Native层DEX一键加固脚本。（和[Java层DEX加固](https://github.com/yon
 # 使用说明
 
 ```
-python -f xxx.apk
+python sosheller.py -f xxx.apk
 ```
 
 # 加固原理
